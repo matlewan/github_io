@@ -1,0 +1,341 @@
+{
+   "categories": {
+      "A": {
+         "code": "A",
+         "title": "Błędy w komunikacji",
+         "answer": false
+      },
+      "B": {
+         "code": "B",
+         "title": "Komunikacja werbalna",
+         "answer": true
+      },
+      "C": {
+         "code": "C",
+         "title": "Komunikacja niewerbalna",
+         "answer": true
+      }
+   },
+   "questions": [
+      {
+         "category": "B",
+         "text": "Humor najczęściej rozładowuje napięcie na spotkaniach z innymi. "
+      },
+      {
+         "category": "B",
+         "text": "Osoby sugerujące „wybierzmy przewodniczącego” bardzo często same chcą zostać wybrane. "
+      },
+      {
+         "category": "A",
+         "text": "Rysowanie czegoś na papierze na ogół pomaga słuchać. "
+      },
+      {
+         "category": "B",
+         "text": "Ludzie nie lubią słuchać i czytać o tym, z czym się nie zgadzają. "
+      },
+      {
+         "category": "A",
+         "text": "Plotki nigdy nie są godne uwagi. "
+      },
+      {
+         "category": "A",
+         "text": "Porozumiewanie się jest łatwe. "
+      },
+      {
+         "category": "B",
+         "text": "Ci, którzy nie słuchają, na ogół nie są zainteresowani. "
+      },
+      {
+         "category": "A",
+         "text": "Jeżeli ktoś nie przestaje mówić, oznacza to, że ma do przekazania dużo ważnych informacji. "
+      },
+      {
+         "category": "B",
+         "text": "Ludzie przeważnie zapominają o tym, co ich nie interesuje. "
+      },
+      {
+         "category": "C",
+         "text": "Sposób w jaki się stoi jest ważną formą komunikacji. "
+      },
+      {
+         "category": "A",
+         "text": "Uważne słuchanie jest rzeczą naturalną. "
+      },
+      {
+         "category": "A",
+         "text": "Mówienie w sposób przekonywający jest jedną z najważniejszych umiejętności potrzebnych do zapewnienia skutecznej komunikacji. "
+      },
+      {
+         "category": "A",
+         "text": "Jeżeli zranione zostały czyjeś uczucia komunikacja nie była skuteczna. "
+      },
+      {
+         "category": "C",
+         "text": "Uśmiech nie zawsze oznacza zadowolenie. "
+      },
+      {
+         "category": "C",
+         "text": "Osoba przychodząca na zebranie jako pierwsza jest na ogół najbardziej nim zainteresowana. "
+      },
+      {
+         "category": "A",
+         "text": "Zachęcanie małomównych do zabierania głosu nie ma większego sensu, choć może jest uprzejme. "
+      },
+      {
+         "category": "A",
+         "text": "Ludzie dający się najłatwiej przekonać to prawie zawsze ci, którzy najszybciej pojmują. "
+      },
+      {
+         "category": "C",
+         "text": "Ubiór odzwierciedla osobowość. "
+      },
+      {
+         "category": "A",
+         "text": "Osoba dobrze rozumiejąca dane zagadnienie przeważnie umie dobrze je zakomunikować. "
+      },
+      {
+         "category": "C",
+         "text": "Osoba, która na zebraniu siedzi na „szczycie stołu” może usiłować dominować nad innymi. "
+      },
+      {
+         "category": "B",
+         "text": "Sposób, w jaki wypowiada się dane słowo wpływa na jego znaczenie. "
+      },
+      {
+         "category": "B",
+         "text": "Kiedy ludzie obawiają się krytyki, skłonni są mniej mówić. "
+      },
+      {
+         "category": "A",
+         "text": "W większości przypadków ciszę można rozumieć jako zgodę. "
+      },
+      {
+         "category": "B",
+         "text": "Osoba, która najwięcej mówi, zapewne usiłuje zdominować innych. "
+      },
+      {
+         "category": "A",
+         "text": "Znaczenie słów rzadko jest przyczyną nieporozumień. "
+      },
+      {
+         "category": "A",
+         "text": "Najlepszym sposobem na wyrażenia złości jest podniesienie głosu. "
+      },
+      {
+         "category": "B",
+         "text": "Ludzie przeważnie lepiej się porozumieją, kiedy są w dobrym nastroju. "
+      },
+      {
+         "category": "A",
+         "text": "Osoby otwarte mogą się dogadać o wiele łatwiej niż osoby skryte. "
+      },
+      {
+         "category": "B",
+         "text": "Jeżeli ktoś jest zły przeważnie mówi mniej. "
+      },
+      {
+         "category": "C",
+         "text": "Siadanie najdalej od stołu może oznaczać najmniejsze zainteresowanie tematem. "
+      },
+      {
+         "category": "A",
+         "text": "Jeżeli polecenie zostało dobrze zrozumiane, prawie zawsze zastanie dobrze wykonane. "
+      },
+      {
+         "category": "A",
+         "text": "Samo słuchanie o cudzych kłopotach nie ma większego sensu, chyba że jesteś w stanie coś doradzić. "
+      },
+      {
+         "category": "A",
+         "text": "Krzyczenie na ludzi nigdy niczego nie daje. "
+      },
+      {
+         "category": "C",
+         "text": "Wyciągnięcie na krześle może oznaczać brak uwagi. "
+      },
+      {
+         "category": "C",
+         "text": "Częste spoglądanie na zegarek oznacza zapewne chęć opuszczenia zebrania. "
+      },
+      {
+         "category": "A",
+         "text": "Członek zespołu wciąż proponujący różne sposoby załatwienia spraw jedynie opóźnia prace i zmniejsza efektywność zespołu. "
+      },
+      {
+         "category": "A",
+         "text": "Częste i głośne powtarzania stanowiska jest na ogół najskuteczniejszym sposobem przeforsowania go. "
+      },
+      {
+         "category": "C",
+         "text": "Rozglądanie się na wszystkie strony podczas gdy ktoś mówi zapewne oznacza brak zainteresowania omawianym tematem. "
+      },
+      {
+         "category": "A",
+         "text": "Ludzie którzy mówią mniej mają mniej do zaoferowania. "
+      },
+      {
+         "category": "C",
+         "text": "Osoba która chce podejść do tablicy lub wykresu może usiłować zdominować innych. "
+      },
+      {
+         "category": "B",
+         "text": "Złość można wyrazić w taki sposób, że odbiorca zrozumie ją i zaakceptuje. "
+      },
+      {
+         "category": "B",
+         "text": "Ze strachu przed ośmieszeniem ludzie mogą twierdzić, że rozumieją temat podczas gdy tak nie jest. "
+      },
+      {
+         "category": "A",
+         "text": "Za skuteczność komunikacji odpowiada wyłącznie mówiący. "
+      },
+      {
+         "category": "B",
+         "text": "Uczucie wyrażone w trakcie komunikacji może być ważniejsze od wypowiedzianych słów. "
+      },
+      {
+         "category": "A",
+         "text": "Człowiek inteligentny powinien zrozumieć informację za pierwszym razem. "
+      },
+      {
+         "category": "A",
+         "text": "Zażarty spór jest na ogół oznaką skutecznej komunikacji. "
+      },
+      {
+         "category": "B",
+         "text": "Przejęzyczenie, np. użycie złego słowa, może oznaczać szczerość uczuć. "
+      },
+      {
+         "category": "A",
+         "text": "Pomiędzy kłócącymi się rzadko dochodzi do skutecznej komunikacji. "
+      },
+      {
+         "category": "B",
+         "text": "Podnoszenie głosu może oznaczać entuzjazm. "
+      },
+      {
+         "category": "C",
+         "text": "Wyraz twarzy mówiącego może zmienić znaczenie wypowiadanych słów. "
+      },
+      {
+         "category": "A",
+         "text": "Osoba zadająca wiele pytań nie rozumie zagadnienia tak dobrze, jak osoba pytająca mało. "
+      },
+      {
+         "category": "A",
+         "text": "Jeżeli ludzie czegoś nie rozumieją, prawie zawsze to powiedzą. "
+      },
+      {
+         "category": "A",
+         "text": "W czasie zebrania należy unikać sporów. "
+      },
+      {
+         "category": "C",
+         "text": "Skinięcia głową w trakcie słuchania przeważnie oznaczają zainteresowanie. "
+      },
+      {
+         "category": "C",
+         "text": "Uniesienie brwi może spowodować zamilknięcie mówiącego. "
+      },
+      {
+         "category": "A",
+         "text": "Osoby o silnym charakterze rzadko nakłaniają nas do twierdzenia, że się z nimi zgadzamy, jeśli w rzeczywistości jest inaczej. "
+      },
+      {
+         "category": "A",
+         "text": "Osoby posiadające bogate słownictwo mogą porozumieć się o wiele łatwiej. "
+      },
+      {
+         "category": "C",
+         "text": "Ten, kto przychodzi na zebranie ostatni, jest przeważnie najmniej zainteresowany tematem. "
+      },
+      {
+         "category": "A",
+         "text": "Jeżeli tylko jest to możliwe, informację należy przekazywać ustnie, a nie pisemnie. "
+      },
+      {
+         "category": "C",
+         "text": "Przedmioty znajdujące się w czyimś pokoju mogą świadczyć o osobowości tej osoby. "
+      },
+      {
+         "category": "B",
+         "text": "Powtórzenie tego, co ktoś powiedział, jest dobrą formą sprawdzenia, czy się zrozumiało. "
+      },
+      {
+         "category": "B",
+         "text": "Błędne wypowiedzenie słowa może czasem wyjawić więcej niż wypowiedzenie go poprawnie. "
+      },
+      {
+         "category": "A",
+         "text": "Brak wiadomości to dobra wiadomość. "
+      },
+      {
+         "category": "B",
+         "text": "Słuchanie bez wypowiadania się może być samo w sobie bardzo pożyteczne. "
+      },
+      {
+         "category": "A",
+         "text": "Komunikacja pisemna jest zawsze bardziej skuteczna niż ustna. "
+      },
+      {
+         "category": "A",
+         "text": "Osoba małomówna zrozumie informację gorzej niż osoba zadająca pytania. "
+      },
+      {
+         "category": "B",
+         "text": "Komunikacja skuteczna zachodzi tylko wtedy, gdy odbiorca rozumie informację w sposób zamierzony przez nadawcę. "
+      },
+      {
+         "category": "A",
+         "text": "Ludzie obcy mogą porozumiewać się równie skutecznie, co osoby znające się. "
+      },
+      {
+         "category": "B",
+         "text": "Osoby , które naprawdę z czymś się nie zgadzają, mogą wyrazić zgodę tylko dla uniknięcia dalszej dyskusji. "
+      },
+      {
+         "category": "C",
+         "text": "Ludzie często porozumiewają się nie zauważając tego. "
+      },
+      {
+         "category": "A",
+         "text": "W trakcie przekazywania informacji jej znaczenie na ogół się nie zmienia. "
+      },
+      {
+         "category": "A",
+         "text": "Poprawna ortografia jest istotna dla komunikacji pisemnej. "
+      },
+      {
+         "category": "A",
+         "text": "Członek zespołu mówiący najwięcej jest prawie zawsze najbardziej efektywny. "
+      },
+      {
+         "category": "C",
+         "text": "Sposób, w jaki ktoś ściska dłoń, odzwierciedla jego osobowość. "
+      },
+      {
+         "category": "C",
+         "text": "Czasem nawet najdrobniejsze gesty znaczą tyle samo co słowa. "
+      },
+      {
+         "category": "A",
+         "text": "Zespół, w którym dochodzi do niewielu sporów, jest bardziej efektywny od tego, w którym jest ich wiele. "
+      },
+      {
+         "category": "A",
+         "text": "Wszystkie ważne informacje przekazuje się ustnie lub pisemnie. "
+      },
+      {
+         "category": "C",
+         "text": "Książki, które ktoś czyta, mogą wiele powiedzieć o jego osobowości. "
+      },
+      {
+         "category": "A",
+         "text": "Gestykulacja podczas mówienia na ogół przeszkadza w skutecznej komunikacji. "
+      },
+      {
+         "category": "C",
+         "text": "Rożni ludzie przekazują te same uczucia na różne sposoby."
+      }
+   ]
+}
