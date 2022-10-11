@@ -41,7 +41,7 @@ import Timeline from "./helpers/Timeline";
 import info from "../../info";
 
 export default {
-  name: "About",
+  name: "MyAbout",
   components: {
     Timeline,
   },
@@ -53,11 +53,11 @@ export default {
   data() {
     return {
       education: {
-        title: "education",
+        title: "Education",
         data: info.education,
       },
       experience: {
-        title: "experiences",
+        title: "Experience",
         data: info.experience,
       },
     };

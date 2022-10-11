@@ -3,11 +3,11 @@
     <Navbar @scroll="scrollTo" @nightMode="switchMode" :nightMode="nightMode" />
     <div class="parent">
       <Home :nightMode="nightMode" />
-      <!-- <About id="about" :nightMode="nightMode" /> -->
-      <!-- <Skills id="skills" :nightMode="nightMode" /> -->
+      <About id="about" :nightMode="nightMode" />
+      <Skills id="skills" :nightMode="nightMode" />
       <!-- <Portfolio id="portfolio" :nightMode="nightMode" /> -->
       <!-- <Contact id="contact" :nightMode="nightMode" /> -->
-      <!-- <Footer :nightMode="nightMode" /> -->
+      <AppFooter :nightMode="nightMode" />
     </div>
   </div>
 </template>
@@ -15,11 +15,11 @@
 <script>
 import Navbar from "./components/Navbar.vue";
 import Home from "./components/Home";
-// import About from "./components/About";
-// import Skills from "./components/Skills";
+import About from "./components/About";
+import Skills from "./components/Skills";
 // import Portfolio from "./components/Portfolio";
 // import Contact from "./components/Contact";
-// import Footer from "./components/Footer";
+import AppFooter from "./components/Footer";
 
 import info from "../info";
 
@@ -28,21 +28,21 @@ export default {
   components: {
     Navbar,
     Home,
-    // About,
-    // Skills,
+    About,
+    Skills,
     // Portfolio,
     // Contact,
-    // Footer,
+    AppFooter,
   },
   data() {
     return {
-      nightMode: false,
+      nightMode: true,
       config: info.config,
     };
   },
   created() {
     if (this.config.use_cookies) {
-      this.nightMode = this.$cookie.get("nightMode") === "true" ? true : false;
+      this.nightMode = this.$cookie.get("nightMode") === "false" ? false : true;
     }
   },
   mounted() {

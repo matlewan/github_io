@@ -55,7 +55,7 @@
 
 <script>
 export default {
-  name: "Timeline",
+  name: "AppTimeline",
   props: {
     data: {
       type: Object,

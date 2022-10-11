@@ -43,7 +43,7 @@
 import info from "../../info";
 
 export default {
-   name: "Footer",
+   name: "AppFooter",
    data() {
       return {
          linkedin: info.links.linkedin,

@@ -9,28 +9,27 @@ let info = {
     }
   },
   description:
-    "I am software engineer. I am passionate about creating high quality software. I always do my best to provide maitanable and testable software with clean code and architecture.",
+    "I am software engineer. I am passionate about creating high quality software. I always do my best to provide maintainable and testable software with clean code and architecture.",
   links: {
     linkedin: undefined,
     github: "https://github.com/matlewan",
     resume: undefined,
   },
   education: [
-    // {
-    //   name: "KFS University",
-    //   place: "Kafr Elsheikh",
-    //   date: "sep, 2018 - present",
-    //   degree: "bachelor in software engineering",
-    //   gpa: "3.1/4.0",
-    //   description:
-    //     "",
-    //   skills: [
-    //     "Software Engineering",
-    //     "web programming",
-    //     "UI/UX design",
-    //     "Front-end developing",
-    //   ]
-    // },
+    {
+      name: "Poznań University of Technology",
+      place: "Poznań",
+      date: "2014-2018",
+      degree: "B.Sc. - Bachelor of Science",
+      gpa: "4.5/5.0"
+    },
+    {
+      name: "Poznań University of Technology",
+      place: "Poznań",
+      date: "2018-2019",
+      degree: "M.Sc. - Master of Science",
+      gpa: "5.0/5.0"
+    },
   ],
   experience: [
     // {
@@ -45,27 +44,22 @@ let info = {
   ],
   skills: [
     {
-      title: "UX/UI Design",
-      info: ["Figma", "Illustrator", "XD", "Photoshop", "Gimp"],
-      icon: "fa fa-pencil-square-o"
-    },
-    {
       title: "Language",
       info: [
-        "Python","Javascript","TypeScript","Java","C#"],
+        "Java","Python","C++","Javascript","Bash","Ansible"],
       icon: "fa fa-code"
     },
-    {
-      title: "Front-end",
-      info: [
-        "HTML5","CSS3","Bootstrap3","Es6"],
-      icon: "fa fa-cubes"
-    },
-    {
-      title: "web technologies",
-      info: ["Vue", "React", "Node"],
-      icon: "fas fa-laptop-code"
-    },
+    // {
+    //   title: "Front-end",
+    //   info: [
+    //     "HTML5","CSS3","Bootstrap3","Es6"],
+    //   icon: "fa fa-cubes"
+    // },
+    // {
+    //   title: "web technologies",
+    //   info: ["Vue", "React", "Node"],
+    //   icon: "fas fa-laptop-code"
+    // },
   ],
 };
 

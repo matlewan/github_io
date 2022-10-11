@@ -49,7 +49,7 @@
 import info from "../../info";
 
 export default {
-  name: "Skills",
+  name: "AppSkills",
   props: {
     nightMode: {
       type: Boolean,
