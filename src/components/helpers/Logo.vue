@@ -13,7 +13,7 @@
 import info from "../../../info";
 
 export default {
-  name: "Logo",
+  name: "AppLogo",
   props: {
     nightMode: {
       type: Boolean,

@@ -7,7 +7,7 @@
       <!-- <Skills id="skills" :nightMode="nightMode" /> -->
       <!-- <Portfolio id="portfolio" :nightMode="nightMode" /> -->
       <!-- <Contact id="contact" :nightMode="nightMode" /> -->
-      <Footer :nightMode="nightMode" />
+      <!-- <Footer :nightMode="nightMode" /> -->
     </div>
   </div>
 </template>
@@ -15,11 +15,11 @@
 <script>
 import Navbar from "./components/Navbar.vue";
 import Home from "./components/Home";
-import About from "./components/About";
-import Skills from "./components/Skills";
-import Portfolio from "./components/Portfolio";
-import Contact from "./components/Contact";
-import Footer from "./components/Footer";
+// import About from "./components/About";
+// import Skills from "./components/Skills";
+// import Portfolio from "./components/Portfolio";
+// import Contact from "./components/Contact";
+// import Footer from "./components/Footer";
 
 import info from "../info";
 
@@ -28,11 +28,11 @@ export default {
   components: {
     Navbar,
     Home,
-    About,
-    Skills,
-    Portfolio,
-    Contact,
-    Footer,
+    // About,
+    // Skills,
+    // Portfolio,
+    // Contact,
+    // Footer,
   },
   data() {
     return {

@@ -9,6 +9,7 @@ base_commit="140cf0580f32890883de7b33961786f8d643436a"
 # Assuming `npm run build` was executed and all files are present in /dist directory
 cd $dst
 git reset --hard $base_commit
+git push -f
 cp -r $src/* $dst
 git add *
 git commit -m "Add production files"
