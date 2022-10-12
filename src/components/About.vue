@@ -57,7 +57,7 @@ export default {
         data: info.education,
       },
       experience: {
-        title: "Experience",
+        title: "Professional experience",
         data: info.experience,
       },
     };
